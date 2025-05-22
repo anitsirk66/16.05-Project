@@ -1,0 +1,4 @@
+Ivana Vasileva, 1200, 2
+Elena Dimitrova, 1100, 1
+Ana Asenova, 900, 3
+Maria Nenova, 1500, 4

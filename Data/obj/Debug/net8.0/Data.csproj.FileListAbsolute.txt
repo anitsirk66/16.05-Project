@@ -1,0 +1,42 @@
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop CodeFirst Project\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop CodeFirst Project\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop CodeFirst Project\Data\bin\Debug\net8.0\Data.dll
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop CodeFirst Project\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop CodeFirst Project\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop CodeFirst Project\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop CodeFirst Project\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop CodeFirst Project\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop CodeFirst Project\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop CodeFirst Project\Data\obj\Debug\net8.0\Data.dll
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop CodeFirst Project\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop CodeFirst Project\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop CodeFirst Project\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop CodeFirst Project\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\Student6\Documents\Project May\Bookshop CodeFirst Project\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\Student6\Documents\Project May\Bookshop CodeFirst Project\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Users\Student6\Documents\Project May\Bookshop CodeFirst Project\Data\bin\Debug\net8.0\Data.dll
+C:\Users\Student6\Documents\Project May\Bookshop CodeFirst Project\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\Student6\Documents\Project May\Bookshop CodeFirst Project\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\Student6\Documents\Project May\Bookshop CodeFirst Project\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student6\Documents\Project May\Bookshop CodeFirst Project\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\Student6\Documents\Project May\Bookshop CodeFirst Project\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\Student6\Documents\Project May\Bookshop CodeFirst Project\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Student6\Documents\Project May\Bookshop CodeFirst Project\Data\obj\Debug\net8.0\Data.dll
+C:\Users\Student6\Documents\Project May\Bookshop CodeFirst Project\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\Student6\Documents\Project May\Bookshop CodeFirst Project\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\Student6\Documents\Project May\Bookshop CodeFirst Project\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Users\Student6\Documents\Project May\Bookshop CodeFirst Project\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Bookshop CodeFirst ProjectOLDVERSION\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Bookshop CodeFirst ProjectOLDVERSION\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Bookshop CodeFirst ProjectOLDVERSION\Data\bin\Debug\net8.0\Data.dll
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Bookshop CodeFirst ProjectOLDVERSION\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Bookshop CodeFirst ProjectOLDVERSION\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Bookshop CodeFirst ProjectOLDVERSION\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Bookshop CodeFirst ProjectOLDVERSION\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Bookshop CodeFirst ProjectOLDVERSION\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Bookshop CodeFirst ProjectOLDVERSION\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Bookshop CodeFirst ProjectOLDVERSION\Data\obj\Debug\net8.0\Data.dll
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Bookshop CodeFirst ProjectOLDVERSION\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Bookshop CodeFirst ProjectOLDVERSION\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Bookshop CodeFirst ProjectOLDVERSION\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Bookshop CodeFirst ProjectOLDVERSION\Data\obj\Debug\net8.0\ref\Data.dll

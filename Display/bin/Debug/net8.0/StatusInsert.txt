@@ -1,0 +1,3 @@
+available 120
+unavailable 40
+in-preorder 4
