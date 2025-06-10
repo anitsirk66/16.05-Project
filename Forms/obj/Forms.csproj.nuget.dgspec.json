@@ -1,0 +1,321 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Forms\\Forms.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Controller\\Controller.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Controller\\Controller.csproj",
+        "projectName": "Controller",
+        "projectPath": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Controller\\Controller.csproj",
+        "packagesPath": "C:\\Users\\Student6\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Controller\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Student6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Data\\Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Data\\Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\Student6\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Student6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Display\\Display.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Display\\Display.csproj",
+        "projectName": "Display",
+        "projectPath": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Display\\Display.csproj",
+        "packagesPath": "C:\\Users\\Student6\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Display\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Student6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Controller\\Controller.csproj": {
+                "projectPath": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Controller\\Controller.csproj"
+              },
+              "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Data\\Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Forms\\Forms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Forms\\Forms.csproj",
+        "projectName": "Forms",
+        "projectPath": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Forms\\Forms.csproj",
+        "packagesPath": "C:\\Users\\Student6\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Forms\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Student6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Controller\\Controller.csproj": {
+                "projectPath": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Controller\\Controller.csproj"
+              },
+              "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Display\\Display.csproj": {
+                "projectPath": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Display\\Display.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

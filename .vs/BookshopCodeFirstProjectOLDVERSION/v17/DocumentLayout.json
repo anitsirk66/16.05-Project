@@ -1,52 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\",
+  "WorkspaceRootPath": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3531E98-8083-4883-87C6-54905EE15664}|Controller\\Controller.csproj|c:\\users\\krisi\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\rs\\bookshop codefirst projectoldversion\\controller\\bookshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF935EED-956F-4FBB-850F-3251FC17DB9B}|Forms\\Forms.csproj|c:\\users\\student6\\documents\\kristina stoyanova\\rs\\forms\\bookshop_codefirst_project\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF935EED-956F-4FBB-850F-3251FC17DB9B}|Forms\\Forms.csproj|solutionrelative:forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3531E98-8083-4883-87C6-54905EE15664}|Controller\\Controller.csproj|c:\\users\\student6\\documents\\kristina stoyanova\\rs\\forms\\bookshop_codefirst_project\\controller\\bookshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3531E98-8083-4883-87C6-54905EE15664}|Controller\\Controller.csproj|solutionrelative:controller\\bookshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AA7291D-44D3-4A78-A0E9-25EF06D7BD57}|Display\\Display.csproj|c:\\users\\krisi\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\rs\\bookshop codefirst projectoldversion\\display\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF935EED-956F-4FBB-850F-3251FC17DB9B}|Forms\\Forms.csproj|C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF935EED-956F-4FBB-850F-3251FC17DB9B}|Forms\\Forms.csproj|solutionrelative:forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7291D-44D3-4A78-A0E9-25EF06D7BD57}|Display\\Display.csproj|c:\\users\\student6\\documents\\kristina stoyanova\\rs\\forms\\bookshop_codefirst_project\\display\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AA7291D-44D3-4A78-A0E9-25EF06D7BD57}|Display\\Display.csproj|solutionrelative:display\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6A609D2-1454-4370-B372-D26B775A586F}|Data\\Data.csproj|c:\\users\\krisi\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\rs\\bookshop codefirst projectoldversion\\data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A609D2-1454-4370-B372-D26B775A586F}|Data\\Data.csproj|solutionrelative:data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6A609D2-1454-4370-B372-D26B775A586F}|Data\\Data.csproj|c:\\users\\krisi\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\rs\\bookshop codefirst projectoldversion\\data\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A609D2-1454-4370-B372-D26B775A586F}|Data\\Data.csproj|solutionrelative:data\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6A609D2-1454-4370-B372-D26B775A586F}|Data\\Data.csproj|c:\\users\\krisi\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\rs\\bookshop codefirst projectoldversion\\data\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A609D2-1454-4370-B372-D26B775A586F}|Data\\Data.csproj|solutionrelative:data\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6A609D2-1454-4370-B372-D26B775A586F}|Data\\Data.csproj|c:\\users\\krisi\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\rs\\bookshop codefirst projectoldversion\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A609D2-1454-4370-B372-D26B775A586F}|Data\\Data.csproj|solutionrelative:data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6A609D2-1454-4370-B372-D26B775A586F}|Data\\Data.csproj|c:\\users\\krisi\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\rs\\bookshop codefirst projectoldversion\\data\\bookshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A609D2-1454-4370-B372-D26B775A586F}|Data\\Data.csproj|solutionrelative:data\\bookshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6A609D2-1454-4370-B372-D26B775A586F}|Data\\Data.csproj|c:\\users\\krisi\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\rs\\bookshop codefirst projectoldversion\\data\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A609D2-1454-4370-B372-D26B775A586F}|Data\\Data.csproj|solutionrelative:data\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Code First Model\\Bookshop CodeFirst Project\\Data\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6A609D2-1454-4370-B372-D26B775A586F}|Data\\Data.csproj|c:\\users\\krisi\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\rs\\bookshop codefirst projectoldversion\\data\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A609D2-1454-4370-B372-D26B775A586F}|Data\\Data.csproj|solutionrelative:data\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6A609D2-1454-4370-B372-D26B775A586F}|Data\\Data.csproj|c:\\users\\krisi\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\rs\\bookshop codefirst projectoldversion\\data\\book_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6A609D2-1454-4370-B372-D26B775A586F}|Data\\Data.csproj|c:\\users\\student6\\documents\\kristina stoyanova\\rs\\forms\\bookshop_codefirst_project\\data\\book_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6A609D2-1454-4370-B372-D26B775A586F}|Data\\Data.csproj|solutionrelative:data\\book_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6A609D2-1454-4370-B372-D26B775A586F}|Data\\Data.csproj|c:\\users\\krisi\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\rs\\bookshop codefirst projectoldversion\\data\\book_genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6A609D2-1454-4370-B372-D26B775A586F}|Data\\Data.csproj|c:\\users\\student6\\documents\\kristina stoyanova\\rs\\forms\\bookshop_codefirst_project\\data\\book_genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6A609D2-1454-4370-B372-D26B775A586F}|Data\\Data.csproj|solutionrelative:data\\book_genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -57,161 +34,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookshopContext.cs",
-              "DocumentMoniker": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Data\\BookshopContext.cs",
-              "RelativeDocumentMoniker": "Data\\BookshopContext.cs",
-              "ToolTip": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Data\\BookshopContext.cs",
-              "RelativeToolTip": "Data\\BookshopContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBoAAABpAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Forms\\Form1.cs",
+              "RelativeToolTip": "Forms\\Form1.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAgwGYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T15:32:11.281Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Worker.cs",
-              "DocumentMoniker": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Data\\Worker.cs",
-              "RelativeDocumentMoniker": "Data\\Worker.cs",
-              "ToolTip": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Data\\Worker.cs",
-              "RelativeToolTip": "Data\\Worker.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T15:05:09.782Z",
+              "WhenOpened": "2025-06-04T14:49:26.865Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Status.cs",
-              "DocumentMoniker": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Data\\Status.cs",
-              "RelativeDocumentMoniker": "Data\\Status.cs",
-              "ToolTip": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Data\\Status.cs",
-              "RelativeToolTip": "Data\\Status.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T15:04:49.551Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Publisher.cs",
-              "DocumentMoniker": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Data\\Publisher.cs",
-              "RelativeDocumentMoniker": "Data\\Publisher.cs",
-              "ToolTip": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Data\\Publisher.cs",
-              "RelativeToolTip": "Data\\Publisher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T15:04:37.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Code First Model\\Bookshop CodeFirst Project\\Data\\Order.cs",
-              "RelativeDocumentMoniker": "..\\Code First Model\\Bookshop CodeFirst Project\\Data\\Order.cs",
-              "ToolTip": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Code First Model\\Bookshop CodeFirst Project\\Data\\Order.cs",
-              "RelativeToolTip": "..\\Code First Model\\Bookshop CodeFirst Project\\Data\\Order.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T15:04:22.601Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Data\\Order.cs",
-              "RelativeDocumentMoniker": "Data\\Order.cs",
-              "ToolTip": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Data\\Order.cs",
-              "RelativeToolTip": "Data\\Order.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Forms\\Form1.cs [Design]",
+              "RelativeToolTip": "Forms\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T15:03:56.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T13:58:03.36Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Data\\Genre.cs",
-              "RelativeDocumentMoniker": "Data\\Genre.cs",
-              "ToolTip": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Data\\Genre.cs",
-              "RelativeToolTip": "Data\\Genre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T15:03:45.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Book_Order.cs",
-              "DocumentMoniker": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Data\\Book_Order.cs",
-              "RelativeDocumentMoniker": "Data\\Book_Order.cs",
-              "ToolTip": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Data\\Book_Order.cs",
-              "RelativeToolTip": "Data\\Book_Order.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA3wCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T14:55:03.431Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Book_Genre.cs",
-              "DocumentMoniker": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Data\\Book_Genre.cs",
-              "RelativeDocumentMoniker": "Data\\Book_Genre.cs",
-              "ToolTip": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Data\\Book_Genre.cs",
-              "RelativeToolTip": "Data\\Book_Genre.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T14:54:31.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Data\\Book.cs",
-              "RelativeDocumentMoniker": "Data\\Book.cs",
-              "ToolTip": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Data\\Book.cs",
-              "RelativeToolTip": "Data\\Book.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA1wCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T14:53:32.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BookshopController.cs",
-              "DocumentMoniker": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Controller\\BookshopController.cs",
+              "DocumentMoniker": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Controller\\BookshopController.cs",
               "RelativeDocumentMoniker": "Controller\\BookshopController.cs",
-              "ToolTip": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Controller\\BookshopController.cs",
+              "ToolTip": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Controller\\BookshopController.cs",
               "RelativeToolTip": "Controller\\BookshopController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAawEAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAcwIEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T14:36:34.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Display\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Display\\Program.cs",
               "RelativeDocumentMoniker": "Display\\Program.cs",
-              "ToolTip": "C:\\Users\\krisi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\11th grade\\RS\\Bookshop CodeFirst ProjectOLDVERSION\\Display\\Program.cs",
+              "ToolTip": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Display\\Program.cs",
               "RelativeToolTip": "Display\\Program.cs",
-              "ViewState": "AgIAAEABAAAAAAAAAAAgwLkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwKAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T14:36:07.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T14:36:07.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book_Order.cs",
+              "DocumentMoniker": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Data\\Book_Order.cs",
+              "RelativeDocumentMoniker": "Data\\Book_Order.cs",
+              "ToolTip": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Data\\Book_Order.cs",
+              "RelativeToolTip": "Data\\Book_Order.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:55:03.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book_Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Data\\Book_Genre.cs",
+              "RelativeDocumentMoniker": "Data\\Book_Genre.cs",
+              "ToolTip": "C:\\Users\\Student6\\Documents\\kristina stoyanova\\RS\\Forms\\Bookshop_CodeFirst_Project\\Data\\Book_Genre.cs",
+              "RelativeToolTip": "Data\\Book_Genre.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:54:31.633Z"
             }
           ]
         }

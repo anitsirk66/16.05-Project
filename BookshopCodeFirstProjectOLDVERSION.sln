@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Display", "Display\Display.
 		{D3531E98-8083-4883-87C6-54905EE15664} = {D3531E98-8083-4883-87C6-54905EE15664}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forms", "Forms\Forms.csproj", "{DF935EED-956F-4FBB-850F-3251FC17DB9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{8AA7291D-44D3-4A78-A0E9-25EF06D7BD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AA7291D-44D3-4A78-A0E9-25EF06D7BD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AA7291D-44D3-4A78-A0E9-25EF06D7BD57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF935EED-956F-4FBB-850F-3251FC17DB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF935EED-956F-4FBB-850F-3251FC17DB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF935EED-956F-4FBB-850F-3251FC17DB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF935EED-956F-4FBB-850F-3251FC17DB9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -54,3 +54,39 @@ C:\Users\krisi\OneDrive\Документи\11th grade\RS\Bookshop CodeFirst Proj
 C:\Users\krisi\OneDrive\Документи\11th grade\RS\Bookshop CodeFirst ProjectOLDVERSION\Controller\obj\Debug\net8.0\Controller.pdb
 C:\Users\krisi\OneDrive\Документи\11th grade\RS\Bookshop CodeFirst ProjectOLDVERSION\Controller\obj\Debug\net8.0\Controller.genruntimeconfig.cache
 C:\Users\krisi\OneDrive\Документи\11th grade\RS\Bookshop CodeFirst ProjectOLDVERSION\Controller\obj\Debug\net8.0\ref\Controller.dll
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop_CodeFirst_Project\Controller\bin\Debug\net8.0\Controller.deps.json
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop_CodeFirst_Project\Controller\bin\Debug\net8.0\Controller.runtimeconfig.json
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop_CodeFirst_Project\Controller\bin\Debug\net8.0\Controller.dll
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop_CodeFirst_Project\Controller\bin\Debug\net8.0\Controller.pdb
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop_CodeFirst_Project\Controller\bin\Debug\net8.0\Data.dll
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop_CodeFirst_Project\Controller\bin\Debug\net8.0\Data.pdb
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\Controller.csproj.AssemblyReference.cache
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\Controller.AssemblyInfoInputs.cache
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\Controller.AssemblyInfo.cs
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\Controller.csproj.CoreCompileInputs.cache
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\Controller.sourcelink.json
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\Controller.csproj.Up2Date
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\Controller.dll
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\refint\Controller.dll
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\Controller.pdb
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\Controller.genruntimeconfig.cache
+C:\Users\krisi\OneDrive\Документи\11th grade\RS\Code First Model\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\ref\Controller.dll
+C:\Users\Student6\Documents\kristina stoyanova\RS\Forms\Bookshop_CodeFirst_Project\Controller\bin\Debug\net8.0\Controller.deps.json
+C:\Users\Student6\Documents\kristina stoyanova\RS\Forms\Bookshop_CodeFirst_Project\Controller\bin\Debug\net8.0\Controller.runtimeconfig.json
+C:\Users\Student6\Documents\kristina stoyanova\RS\Forms\Bookshop_CodeFirst_Project\Controller\bin\Debug\net8.0\Controller.dll
+C:\Users\Student6\Documents\kristina stoyanova\RS\Forms\Bookshop_CodeFirst_Project\Controller\bin\Debug\net8.0\Controller.pdb
+C:\Users\Student6\Documents\kristina stoyanova\RS\Forms\Bookshop_CodeFirst_Project\Controller\bin\Debug\net8.0\Data.dll
+C:\Users\Student6\Documents\kristina stoyanova\RS\Forms\Bookshop_CodeFirst_Project\Controller\bin\Debug\net8.0\Data.pdb
+C:\Users\Student6\Documents\kristina stoyanova\RS\Forms\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\Controller.csproj.AssemblyReference.cache
+C:\Users\Student6\Documents\kristina stoyanova\RS\Forms\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student6\Documents\kristina stoyanova\RS\Forms\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\Controller.AssemblyInfoInputs.cache
+C:\Users\Student6\Documents\kristina stoyanova\RS\Forms\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\Controller.AssemblyInfo.cs
+C:\Users\Student6\Documents\kristina stoyanova\RS\Forms\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\Controller.csproj.CoreCompileInputs.cache
+C:\Users\Student6\Documents\kristina stoyanova\RS\Forms\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\Controller.sourcelink.json
+C:\Users\Student6\Documents\kristina stoyanova\RS\Forms\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\Controller.csproj.Up2Date
+C:\Users\Student6\Documents\kristina stoyanova\RS\Forms\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\Controller.dll
+C:\Users\Student6\Documents\kristina stoyanova\RS\Forms\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\refint\Controller.dll
+C:\Users\Student6\Documents\kristina stoyanova\RS\Forms\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\Controller.pdb
+C:\Users\Student6\Documents\kristina stoyanova\RS\Forms\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\Controller.genruntimeconfig.cache
+C:\Users\Student6\Documents\kristina stoyanova\RS\Forms\Bookshop_CodeFirst_Project\Controller\obj\Debug\net8.0\ref\Controller.dll

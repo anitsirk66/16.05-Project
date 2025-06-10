@@ -24,7 +24,7 @@ namespace Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder dbContextOptionsBuilder)
         {
-            dbContextOptionsBuilder.UseSqlServer("Data Source=OLIVIABENSON\\SQLEXPRESS01;Initial Catalog=BookshopDB;Integrated Security=True; TrustServerCertificate=True");
+            dbContextOptionsBuilder.UseSqlServer("Data Source=STUDENT6;Initial Catalog=BookshopDB;Integrated Security=True; TrustServerCertificate=True");
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
